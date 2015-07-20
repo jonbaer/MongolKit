@@ -1,0 +1,21 @@
+/* Namespace all things! */
+
+/* Design Parameters
+
+	font-size:   14px;
+	line-height: 20px;
+	color:       rgba(255, 255, 255, 0.6);
+	navbar:      rgba(0,0,0,.36);
+	average padding: 8px;
+*/
+
+.Mongol_extension_menuButton {
+	float: right;
+	padding: 0 8px;
+	border-left: 1px solid rgba(0,0,0,.36);
+}
+
+.Mongol_extension_menuButton:hover {
+	color: #2ca6e2;
+	cursor: pointer;
+}
